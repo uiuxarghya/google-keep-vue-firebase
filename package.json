@@ -51,26 +51,5 @@
     "style-resources-loader": "^1.2.1",
     "vue-eslint-parser": "^6.0.4",
     "vue-template-compiler": "^2.6.10"
-  },
-  "description": "Based on this [Scotch.io tutorial](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1)",
-  "main": "babel.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/javaistic/google-keep-vue-firebase.git"
-  },
-  "keywords": [
-    "vue",
-    "vue-keep",
-    "google",
-    "google",
-    "keep",
-    "firebase",
-    "clone"
-  ],
-  "author": "Arghya Ghosh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/javaistic/google-keep-vue-firebase/issues"
-  },
-  "homepage": "https://github.com/javaistic/google-keep-vue-firebase#readme"
+  }
 }

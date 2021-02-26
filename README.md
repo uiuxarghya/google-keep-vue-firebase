@@ -2,8 +2,7 @@
 
 Based on this [Scotch.io tutorial](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9a3ae781-7290-49ea-924e-733b31b10a34/deploy-status)](https://app.netlify.com/sites/vuefpk/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6d6a581-2a28-4361-8019-bf49a8725d10/deploy-status)](https://app.netlify.com/sites/keep-vue/deploys)
 
 ## Getting Started
 
