@@ -1,6 +1,12 @@
 <template>
   <div id="app">
     <div class="logos">
+      <span class="logo arghya">
+        <img src="./assets/images/arghya-logo.png" alt="Arghya Ghosh">
+      </span>
+      <span class="plus">
+        +
+      </span>
       <span class="logo keep">
         <img src="./assets/images/keep-logo.png" alt="Google Keep">
       </span>
